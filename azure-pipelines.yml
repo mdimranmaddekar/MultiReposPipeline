@@ -8,7 +8,6 @@ resources:
 
 trigger:
 - master
-- azure-pipelines
 
 pool:
   vmImage: 'ubuntu-18.04'
