@@ -4,7 +4,7 @@ resources:
   - repository: DevOpsTools 
     type: github
     endpoint: Sandbox
-    name: wesleycamargo/DevOpsTools
+    name: mdimranmaddekar/DevOpsTools
 
 trigger:
 - master
