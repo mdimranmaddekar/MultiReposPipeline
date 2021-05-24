@@ -11,7 +11,7 @@ trigger:
 - azure-pipelines
 
 pool:
-  name: 'Default'
+  name: 'ubuntu-latest'
 
 variables:
   buildConfiguration: 'Release'
